@@ -2,6 +2,8 @@
 
 Jekyll pygment railscasts theme
 
+![Example](https://github.com/mgrachev/jekyll-syntax-railscasts/raw/master/example.png)
+
 ## Installation
 
 Copy the railscasts.css in the `css` directory Jekyll
